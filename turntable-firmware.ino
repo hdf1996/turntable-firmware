@@ -24,7 +24,7 @@ const String mainHTML = "<html>\
   </head>\
   <body>\
      <label for=\"direction\">speed</label>\
-     <input type=\"range\" id=\"speed\" value=\"15\" min=\"5\" max=\"130\">\
+     <input type=\"range\" id=\"speed\" value=\"15\" min=\"0\" max=\"130\">\
      <br/>\
      <label for=\"direction\">clockwise</label>\
      <input type=\"checkbox\" id=\"direction\" checked>\
